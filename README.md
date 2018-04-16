@@ -1,2 +1,2 @@
 # form2sheets
-fumblling step towards LSL population of Google Sheets
+fumblling steps towards LSL population of Google Sheets
